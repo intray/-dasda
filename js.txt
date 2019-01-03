@@ -1,0 +1,17 @@
+1. 
+	khai bao 	- hang : const tenhang = giatri;
+		- bien : var tenBien = giatri;
+	hien thi	- document.write(a);
+		-console.log(a);
+2.
+	ham push : them vao cuoi mang---unshift
+	ham pop : xoa phan tu cuoi mang---shift
+	ham splice : them vao mang o 1 vtri nha dinh
+	 -arr.splice(index,phtu xoa,phtu them....phtuN)
+	ham concat : ghep mang
+	 -document.write(arr1.concat(arr2));
+	ham slice : lay ra nhieu phtu trong day
+	 -arr.slice(begin,end);
+	ham sort : sap xep
+	 -arr.sort()
+	ham reverse() : dao nguoc vi tri

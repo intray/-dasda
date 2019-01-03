@@ -1,0 +1,6 @@
+xoay + giu ctrl 
+ctrl + mui ten : len xuong
+F10 : bo goc + shift bo 1 goc
+F12 : chinh sua net
+ctrl D : lap lenh
+ctrl Q : bienh thanh diem de chinh + F10 : bien thanh hinh cheo

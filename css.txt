@@ -1,0 +1,7 @@
+firt-child : chon dau tien
+last-child: cai cuoi cung
+nth-child(2nd) : chon so 2 4 6 8
+nth-child(2nd +1) : chon 3 6 8
+position : sticky -> dung de quan
+display : flex (vao cha de cho con theo thu tu)
+	con : flex : 1,2,3..;(html)

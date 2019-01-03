@@ -1,0 +1,6 @@
+﻿Get or Post
+Get dễ dùng và nhanh hơn vs post, và dc sử dụng trong hầu hết các trường hợp
+Post dùng trong các trường hợp dưới này : 
+	- lưu file k phải là tùy trọn (như là up file or date lên server)
+	- gửi nhiều dữ liệu lên server (post sẽ k giới hạn kích thước)
+	- gửi đầu vào của người dùng (chứa được những kí tự k xác định), Post mạnh hơn và an toàn hơn Get

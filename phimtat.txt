@@ -1,0 +1,14 @@
+ctrl shift T : khoang cach chu
+ctrl alt j : kéo d?u ?nh shitf c
+
+id: 
+golden triangle backgroud
+ctrl c + ctrl shift alt v : coppy
+ctrl alt 4 : lap lenh
+ctrl D : m? file
+ctrl shift alt C : dua anh vào vao khung
+chen anh tao khung bang mui tên
+ctrl shift : kéo anh và khung cung lúc
+ctrl shift T : chia cot cho chu
+ctrl shift R L C J : can phai trai giua, bang nhua
+ctrl B : dieu chinh text

@@ -1,0 +1,23 @@
+comment: ctrl k + c , hoàn l?nh ctrl k + u
+d?nh d?ng l?i code : ctrl k + d
+=== : so sánh c? ki?u vs giá tr?
+luc nao cung khai bao bien bang : var
+
+alert : thông báo thông thu?ng
+confirm : thông báo xác nh?n
+prompt : thông báo cho phép ng dùng nh?p giá tr?
+
+toán t? 3 ngôi : x=a!=b?1:0 (dùng thay cho if else don gi?n)
+(n?u a = b tr? v? 1, n?u a không b?ng b tr? v? 0)
+
+string
+{
+	khi so sanh là k ss gia tri mà se ss doi tuong
+	tao la can dung new string hoac gan luon bang 'hello'
+	cac thuat toan(string methods)
+}
+
+number
+{
+	isNaN : ss xem co la chu hay k VD:console.log(isNaN(bien));
+}
